@@ -1,0 +1,16 @@
+// 21885d08c8d573206b3223b5fa6f08fa ALTERNATIVE KEY
+// 439d4b804bc8187953eb36d2a8c26a02
+// bb037310921af67f24ba53f2bad48b1d ALTERNATIVE KEY
+// https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&APPID=${API.API_KEY}
+const API = {
+  API_KEY: "bb037310921af67f24ba53f2bad48b1d",
+  API_BASE: `https://api.openweathermap.org/data/2.5/weather?q=`,
+};
+// map 6=zoom 33=lat 21=lon
+// https://a.maps.owm.io/weather/cities/6/33/21.geojson?appid=b1b15e88fa797225412429c1c50c122a1
+
+// https://openweathermap.org/data/2.5/find?q=berlin&appid=439d4b804bc8187953eb36d2a8c26a02&units=metric
+
+// https://openweathermap.org/data/2.5/weather?id=2950159&units=metric&appid=439d4b804bc8187953eb36d2a8c26a02
+
+// https://openweathermap.org/data/2.5/onecall?lat=52.52&lon=13.41&units=metric&appid=439d4b804bc8187953eb36d2a8c26a02
